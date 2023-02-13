@@ -4,8 +4,7 @@ import { Component } from "react";
 import { Dropdown, Navbar, Nav, NavDropdown } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles.css";
-import { BsFillBellFill } from "react-icons/bs";
-import { BsSearch } from "react-icons/bs";
+import { BsFillBellFill, BsSearch } from "react-icons/bs";
 
 class MyNavbar extends Component {
   render() {
